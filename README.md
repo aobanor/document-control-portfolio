@@ -10,7 +10,7 @@ Built to demonstrate practical skills for roles in engineering, construction, oi
 - [Revision Control Log](https://github.com/aobanor/revision-control-log) |Revision tracker with full change history log |
 - [Document Management System](https://github.com/aobanor/document-management-system) | Simulated DMS on Google Drive |
 - [ISO 9001 Procedure](https://github.com/aobanor/ISO9001-documented-information-procedure) | ISO 9001:2015 Clause 7.5 compliant proceduew |
-- [Document Handover Register] (https://github.com/aobanor/document-handover-register)
+- [Document Handover Register](https://github.com/aobanor/document-handover-register) | Excel | LCI handover tracker with 8 categories, dashboard, and Equinor-aligned requirements
 
 
 --- 
